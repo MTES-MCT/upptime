@@ -1,34 +1,47 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
+owner: MTES-MCT # Your GitHub organization or username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+  - name: Acceslibre
+    url: https://acceslibre.beta.gouv.fr
+  - name: Adock
+    url: https://adock.beta.gouv.fr
+  - name: Aides territoires
+    url: https://aides-territoires.beta.gouv.fr
+  - name: Camino
+    url: https://camino.beta.gouv.fr
+  - name: Camino API
+    url: https://api.camino.beta.gouv.fr/?operationName=Titres&query=query%20Titres%20%7B%0A%20%20titres%20%7B%0A%20%20%20%20elements%20%7B%0A%20%20%20%20%20%20id%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A
+  - name: Carbure
+    url: https://carbure.beta.gouv.fr
+  - name: Chauffage-urbain
+    url: https://chauffage-urbain.beta.gouv.fr
+  - name: Dossier facile
+    url: https://dossierfacile.fr
+  - name: Mobilic
+    url: https://mobilic.beta.gouv.fr
+  - name: Partaj
+    url: https://partaj.beta.gouv.fr
+  - name: Potentiel
+    url: https://potentiel.beta.gouv.fr
+  - name: Résorptions des bidonvilles
+    url: https://resorption-bidonvilles.beta.gouv.fr
+  - name: Trackdechets
+    url: https://trackdechets.beta.gouv.fr
+  - name: Trackdechets API
+    url: https://api.trackdechets.beta.gouv.fr/.well-known/apollo/server-health
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  baseUrl: /upptime
+  logoUrl: https://github.com/MTES-MCT/portail/blob/master/src/themes/fabnum/static/images/logo-la-fabrique-numerique.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Page de statut des services MTES-MCT"
+  introMessage: ""
   navbar:
     - title: Status
       href: /
