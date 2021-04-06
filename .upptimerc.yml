@@ -38,8 +38,8 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://github.com/MTES-MCT/portail/blob/master/src/themes/fabnum/static/images/logo-la-fabrique-numerique.svg
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/MTES-MCT/portail/master/src/themes/fabnum/static/images/logo-la-fabrique-numerique.svg
+  name: MTES-MCT Upptime
   introTitle: "Page de statut des services MTES-MCT"
   introMessage: ""
   navbar:
