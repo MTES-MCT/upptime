@@ -32,6 +32,8 @@ sites:
     url: https://trackdechets.beta.gouv.fr
   - name: Trackdechets API
     url: https://api.trackdechets.beta.gouv.fr/.well-known/apollo/server-health
+  - name: Transport data
+    url: https://transport.data.gouv.fr
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
