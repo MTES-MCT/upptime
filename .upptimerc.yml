@@ -36,6 +36,10 @@ sites:
     url: https://chauffage-urbain.beta.gouv.fr
   - name: Dossier facile
     url: https://dossierfacile.fr
+  - name: Envergo
+    url: https://envergo.beta.gouv.fr
+    assignees:
+      - thibault
   - name: Mobilic
     url: https://mobilic.beta.gouv.fr
     assignees:
