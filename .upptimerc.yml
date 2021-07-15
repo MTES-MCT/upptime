@@ -61,7 +61,11 @@ sites:
       - benoitguigal
       - providenz
       - Zhouzi
-      - alfabouch
+      - alfabouch      
+  - name: Sparte
+    url: https://sparte.data.gouv.fr
+    assignees:
+      - Swannbm
   - name: Trackdechets API
     url: https://api.trackdechets.beta.gouv.fr/.well-known/apollo/server-health
     assignees:
