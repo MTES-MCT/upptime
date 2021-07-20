@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 811,
     "timeDay": 690,
-    "timeWeek": 652,
+    "timeWeek": 658,
     "timeMonth": 1117,
     "timeYear": 811,
     "dailyMinutesDown": {}
@@ -159,6 +159,24 @@
     "timeWeek": 692,
     "timeMonth": 707,
     "timeYear": 707,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "France-chaleur-urbaine",
+    "url": "https://france-chaleur-urbaine.beta.gouv.fr",
+    "icon": "https://favicons.githubusercontent.com/france-chaleur-urbaine.beta.gouv.fr",
+    "slug": "france-chaleur-urbaine",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 490,
+    "timeDay": 490,
+    "timeWeek": 490,
+    "timeMonth": 490,
+    "timeYear": 490,
     "dailyMinutesDown": {}
   },
   {
