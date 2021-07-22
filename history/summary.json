@@ -310,17 +310,17 @@
     "url": "https://transport.data.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/transport.data.gouv.fr",
     "slug": "transport-data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 566,
-    "timeWeek": 704,
-    "timeMonth": 740,
-    "timeYear": 761,
+    "time": 759,
+    "timeDay": 583,
+    "timeWeek": 691,
+    "timeMonth": 735,
+    "timeYear": 759,
     "dailyMinutesDown": {}
   }
 ]
