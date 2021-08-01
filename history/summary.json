@@ -292,7 +292,7 @@
     "url": "https://api.trackdechets.beta.gouv.fr/.well-known/apollo/server-health",
     "icon": "https://favicons.githubusercontent.com/api.trackdechets.beta.gouv.fr",
     "slug": "trackdechets-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
