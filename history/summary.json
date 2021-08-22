@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1486,
     "timeDay": 1251,
-    "timeWeek": 1861,
+    "timeWeek": 1619,
     "timeMonth": 1730,
     "timeYear": 1486,
     "dailyMinutesDown": {}
@@ -130,7 +130,7 @@
     "url": "https://dossierfacile.fr",
     "icon": "https://favicons.githubusercontent.com/dossierfacile.fr",
     "slug": "dossier-facile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -319,7 +319,7 @@
     "time": 756,
     "timeDay": 634,
     "timeWeek": 725,
-    "timeMonth": 739,
+    "timeMonth": 747,
     "timeYear": 756,
     "dailyMinutesDown": {}
   }
