@@ -13,6 +13,10 @@ sites:
     url: https://adock.beta.gouv.fr
     assignees:
       - stephane
+  - name: Apilos
+    url: https://apilos.beta.gouv.fr
+    assignees:
+      - kolok
   - name: Aides territoires
     url: https://aides-territoires.beta.gouv.fr
     assignees:
