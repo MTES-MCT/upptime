@@ -69,7 +69,7 @@ sites:
       - Zhouzi
       - alfabouch      
   - name: Sparte
-    url: https://sparte.data.gouv.fr
+    url: https://sparte.beta.gouv.fr
     assignees:
       - Swannbm
   - name: Trackdechets API
