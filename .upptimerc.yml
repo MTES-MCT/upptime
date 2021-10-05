@@ -38,8 +38,14 @@ sites:
       - mplanes
   - name: Chauffage-urbain
     url: https://chauffage-urbain.beta.gouv.fr
-  - name: Dossier facile
+  - name: Dossier facile landpage
     url: https://dossierfacile.fr
+  - name: Dossier facile propriétaire
+    url: https://proprietaire.dossierfacile.fr
+  - name: Dossier facile locataire
+    url: https://locataire.dossierfacile.fr
+  - name: API Dossier facile
+    url: https://api.dossierfacile.fr/actuator/health
   - name: Envergo
     url: https://envergo.beta.gouv.fr
     assignees:
