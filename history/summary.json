@@ -112,7 +112,7 @@
     "url": "https://carbure.beta.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/carbure.beta.gouv.fr",
     "slug": "carbure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 446,
     "timeDay": 478,
-    "timeWeek": 451,
+    "timeWeek": 420,
     "timeMonth": 447,
     "timeYear": 446,
     "dailyMinutesDown": {}
@@ -265,7 +265,7 @@
     "time": 628,
     "timeDay": 495,
     "timeWeek": 525,
-    "timeMonth": 590,
+    "timeMonth": 584,
     "timeYear": 628,
     "dailyMinutesDown": {}
   },
@@ -373,7 +373,7 @@
     "time": 562,
     "timeDay": 506,
     "timeWeek": 479,
-    "timeMonth": 559,
+    "timeMonth": 552,
     "timeYear": 562,
     "dailyMinutesDown": {}
   },
