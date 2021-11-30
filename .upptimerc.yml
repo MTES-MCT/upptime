@@ -7,8 +7,7 @@ sites:
   - name: Acceslibre
     url: https://acceslibre.beta.gouv.fr
     assignees:
-      - n1k0
-      - celiacheff
+    - z3ntUx
   - name: Adock
     url: https://adock.beta.gouv.fr
     assignees:
@@ -90,6 +89,14 @@ sites:
     assignees:
       - thbar
       - fchabouis
+  - name: Wikicarbone
+    url: https://wikicarbone.beta.gouv.fr
+    assignees:
+      - n1k0
+  - name: ZeroLogementVacant
+    url: https://zerologementvacant.beta.gouv.fr
+    assignees:
+      - jrivals
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
