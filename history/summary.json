@@ -394,5 +394,41 @@
     "timeMonth": 753,
     "timeYear": 748,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Wikicarbone",
+    "url": "https://wikicarbone.beta.gouv.fr",
+    "icon": "https://favicons.githubusercontent.com/wikicarbone.beta.gouv.fr",
+    "slug": "wikicarbone",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 372,
+    "timeDay": 372,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 372,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "ZeroLogementVacant",
+    "url": "https://zerologementvacant.beta.gouv.fr",
+    "icon": "https://favicons.githubusercontent.com/zerologementvacant.beta.gouv.fr",
+    "slug": "zero-logement-vacant",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
