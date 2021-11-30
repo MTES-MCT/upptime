@@ -51,6 +51,14 @@ sites:
       - thibault
   - name: France-chaleur-urbaine
     url: https://france-chaleur-urbaine.beta.gouv.fr
+  - name: Le Taxi
+    url: https://le.taxi
+    assignees:
+      - bors-ltd
+  - name: Le Taxi API
+    url: https://dev.api.taxi/hails
+    assignees:
+      - bors-ltd
   - name: Mobilic
     url: https://mobilic.beta.gouv.fr
     assignees:
