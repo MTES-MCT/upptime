@@ -37,6 +37,8 @@ sites:
       - mplanes
   - name: Chauffage-urbain
     url: https://chauffage-urbain.beta.gouv.fr
+  - name: Covoiturage
+    url: https://covoiturage.beta.gouv.fr
   - name: Dossier facile landpage
     url: https://dossierfacile.fr
   - name: Dossier facile propriétaire
