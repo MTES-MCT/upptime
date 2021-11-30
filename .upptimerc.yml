@@ -89,6 +89,11 @@ sites:
     assignees:
       - thbar
       - fchabouis
+  - name: Transport data API
+    url: https://transport.data.gouv.fr/api/datasets
+    assignees:
+      - thbar
+      - fchabouis
   - name: Wikicarbone
     url: https://wikicarbone.beta.gouv.fr
     assignees:
