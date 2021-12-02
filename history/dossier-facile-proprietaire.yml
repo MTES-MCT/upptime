@@ -1,7 +1,7 @@
 url: https://proprietaire.dossierfacile.fr
-status: up
-code: 200
-responseTime: 539
-lastUpdated: 2021-12-01T23:21:59.438Z
+status: down
+code: 502
+responseTime: 467
+lastUpdated: 2021-12-02T12:54:05.536Z
 startTime: Tue Oct 05 2021 08:20:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
