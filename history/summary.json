@@ -220,7 +220,7 @@
     "url": "https://api.dossierfacile.fr/actuator/health",
     "icon": "https://favicons.githubusercontent.com/api.dossierfacile.fr",
     "slug": "api-dossier-facile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -229,7 +229,7 @@
     "time": 652,
     "timeDay": 409,
     "timeWeek": 400,
-    "timeMonth": 421,
+    "timeMonth": 415,
     "timeYear": 652,
     "dailyMinutesDown": {}
   },
