@@ -1,7 +1,7 @@
 url: https://api.dossierfacile.fr/actuator/health
-status: up
-code: 200
-responseTime: 483
-lastUpdated: 2022-01-11T23:23:16.601Z
+status: down
+code: 502
+responseTime: 409
+lastUpdated: 2022-01-12T10:30:10.647Z
 startTime: Tue Oct 05 2021 08:20:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
