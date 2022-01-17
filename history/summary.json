@@ -13,7 +13,7 @@
     "time": 736,
     "timeDay": 922,
     "timeWeek": 730,
-    "timeMonth": 668,
+    "timeMonth": 678,
     "timeYear": 736,
     "dailyMinutesDown": {}
   },
@@ -220,7 +220,7 @@
     "url": "https://api.dossierfacile.fr/actuator/health",
     "icon": "https://favicons.githubusercontent.com/api.dossierfacile.fr",
     "slug": "api-dossier-facile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -426,7 +426,7 @@
     "uptimeYear": "100.00%",
     "time": 564,
     "timeDay": 804,
-    "timeWeek": 639,
+    "timeWeek": 652,
     "timeMonth": 601,
     "timeYear": 564,
     "dailyMinutesDown": {}
