@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 579,
     "timeDay": 534,
-    "timeWeek": 634,
+    "timeWeek": 644,
     "timeMonth": 587,
     "timeYear": 579,
     "dailyMinutesDown": {}
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 1097,
     "timeDay": 428,
-    "timeWeek": 3570,
+    "timeWeek": 3660,
     "timeMonth": 1677,
     "timeYear": 1097,
     "dailyMinutesDown": {}
@@ -490,17 +490,17 @@
     "url": "https://zerologementvacant.beta.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/zerologementvacant.beta.gouv.fr",
     "slug": "zero-logement-vacant",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 367,
-    "timeWeek": 497,
-    "timeMonth": 475,
-    "timeYear": 453,
+    "time": 451,
+    "timeDay": 368,
+    "timeWeek": 483,
+    "timeMonth": 472,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   }
 ]
