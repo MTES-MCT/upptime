@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 677,
     "timeDay": 473,
-    "timeWeek": 653,
+    "timeWeek": 661,
     "timeMonth": 632,
     "timeYear": 677,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1514,
     "timeDay": 1429,
-    "timeWeek": 1590,
+    "timeWeek": 1651,
     "timeMonth": 1603,
     "timeYear": 1514,
     "dailyMinutesDown": {}
@@ -184,7 +184,7 @@
     "url": "https://proprietaire.dossierfacile.fr",
     "icon": "https://favicons.githubusercontent.com/proprietaire.dossierfacile.fr",
     "slug": "dossier-facile-proprietaire",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 1193,
     "timeDay": 413,
-    "timeWeek": 3146,
+    "timeWeek": 3455,
     "timeMonth": 2066,
     "timeYear": 1193,
     "dailyMinutesDown": {}
