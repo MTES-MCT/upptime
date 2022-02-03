@@ -490,17 +490,17 @@
     "url": "https://zerologementvacant.beta.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/zerologementvacant.beta.gouv.fr",
     "slug": "zero-logement-vacant",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 508,
-    "timeWeek": 417,
-    "timeMonth": 450,
-    "timeYear": 449,
+    "time": 448,
+    "timeDay": 459,
+    "timeWeek": 411,
+    "timeMonth": 447,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   }
 ]
