@@ -1,7 +1,7 @@
 url: https://aides-territoires.beta.gouv.fr
-status: up
-code: 200
-responseTime: 725
-lastUpdated: 2022-05-30T23:24:20.585Z
+status: down
+code: 500
+responseTime: 866
+lastUpdated: 2022-05-31T15:57:20.963Z
 startTime: Tue Apr 06 2021 15:22:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
