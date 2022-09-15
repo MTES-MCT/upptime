@@ -382,7 +382,7 @@
     "url": "https://trackdechets.beta.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/trackdechets.beta.gouv.fr",
     "slug": "trackdechets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -408,7 +408,7 @@
     "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 1039,
-    "timeWeek": 973,
+    "timeWeek": 915,
     "timeMonth": 898,
     "timeYear": 635,
     "dailyMinutesDown": {}
