@@ -1,7 +1,7 @@
 url: https://sparte.beta.gouv.fr
-status: down
-code: 503
-responseTime: 453
-lastUpdated: 2022-11-09T09:58:05.718Z
+status: up
+code: 200
+responseTime: 546
+lastUpdated: 2022-11-09T10:21:59.070Z
 startTime: Thu Jul 15 2021 15:36:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
