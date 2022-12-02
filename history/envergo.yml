@@ -1,7 +1,7 @@
 url: https://envergo.beta.gouv.fr
-status: down
-code: 500
-responseTime: 991
-lastUpdated: 2022-12-02T14:15:11.548Z
+status: up
+code: 200
+responseTime: 1106
+lastUpdated: 2022-12-02T14:27:41.704Z
 startTime: Wed Jul 07 2021 13:32:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
