@@ -1,7 +1,7 @@
 url: https://transport.data.gouv.fr/api/datasets
-status: down
-code: 504
-responseTime: 10422
-lastUpdated: 2022-12-10T14:10:43.126Z
+status: up
+code: 200
+responseTime: 4217
+lastUpdated: 2022-12-10T16:14:26.788Z
 startTime: Tue Nov 30 2021 08:06:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
