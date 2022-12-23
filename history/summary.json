@@ -4,17 +4,17 @@
     "url": "https://acceslibre.beta.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/acceslibre.beta.gouv.fr",
     "slug": "acceslibre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1244,
-    "timeDay": 8849,
-    "timeWeek": 5698,
-    "timeMonth": 2879,
-    "timeYear": 1456,
+    "timeDay": 8063,
+    "timeWeek": 5404,
+    "timeMonth": 2830,
+    "timeYear": 1455,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 826,
     "timeWeek": 634,
     "timeMonth": 605,
-    "timeYear": 963,
+    "timeYear": 964,
     "dailyMinutesDown": {}
   },
   {
