@@ -1,7 +1,7 @@
 url: https://acceslibre.beta.gouv.fr
-status: down
-code: 502
-responseTime: 893
-lastUpdated: 2022-12-23T19:28:48.756Z
+status: up
+code: 200
+responseTime: 736
+lastUpdated: 2022-12-23T19:37:33.505Z
 startTime: Tue Apr 06 2021 15:22:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
