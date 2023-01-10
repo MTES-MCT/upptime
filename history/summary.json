@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1292,
-    "timeDay": 881,
+    "timeDay": 841,
     "timeWeek": 1167,
     "timeMonth": 1472,
     "timeYear": 1399,
@@ -94,17 +94,17 @@
     "url": "https://api.camino.beta.gouv.fr/?operationName=Titres&query=query%20Titres%20%7B%0A%20%20titres%20%7B%0A%20%20%20%20elements%20%7B%0A%20%20%20%20%20%20id%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A",
     "icon": "https://favicons.githubusercontent.com/api.camino.beta.gouv.fr",
     "slug": "camino-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1744,
-    "timeDay": 1364,
-    "timeWeek": 1563,
-    "timeMonth": 1635,
-    "timeYear": 1803,
+    "timeDay": 997,
+    "timeWeek": 1447,
+    "timeMonth": 1605,
+    "timeYear": 1800,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 1003,
     "timeWeek": 1354,
     "timeMonth": 1482,
-    "timeYear": 1259,
+    "timeYear": 1260,
     "dailyMinutesDown": {}
   },
   {
@@ -212,7 +212,7 @@
     "timeDay": 407,
     "timeWeek": 576,
     "timeMonth": 578,
-    "timeYear": 508,
+    "timeYear": 509,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 384,
     "timeWeek": 540,
     "timeMonth": 598,
-    "timeYear": 981,
+    "timeYear": 984,
     "dailyMinutesDown": {}
   },
   {
@@ -445,7 +445,7 @@
     "time": 911,
     "timeDay": 1032,
     "timeWeek": 931,
-    "timeMonth": 1208,
+    "timeMonth": 958,
     "timeYear": 963,
     "dailyMinutesDown": {}
   },
@@ -463,7 +463,7 @@
     "time": 2997,
     "timeDay": 5814,
     "timeWeek": 5131,
-    "timeMonth": 4264,
+    "timeMonth": 4094,
     "timeYear": 2716,
     "dailyMinutesDown": {}
   },
