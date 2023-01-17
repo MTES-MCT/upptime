@@ -1,7 +1,7 @@
 url: https://transport.data.gouv.fr
-status: up
-code: 200
-responseTime: 698
-lastUpdated: 2023-01-16T23:19:47.499Z
+status: down
+code: 504
+responseTime: 10768
+lastUpdated: 2023-01-17T21:53:38.953Z
 startTime: Wed Apr 07 2021 09:07:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
