@@ -13,7 +13,7 @@
     "time": 1295,
     "timeDay": 747,
     "timeWeek": 909,
-    "timeMonth": 1473,
+    "timeMonth": 1240,
     "timeYear": 1403,
     "dailyMinutesDown": {}
   },
@@ -400,7 +400,7 @@
     "url": "https://sparte.beta.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/sparte.beta.gouv.fr",
     "slug": "sparte",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
