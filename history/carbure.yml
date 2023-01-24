@@ -1,7 +1,7 @@
 url: https://carbure.beta.gouv.fr
-status: down
-code: 502
-responseTime: 968
-lastUpdated: 2023-01-24T12:25:45.035Z
+status: up
+code: 200
+responseTime: 710
+lastUpdated: 2023-01-24T12:55:19.779Z
 startTime: Tue Apr 06 2021 15:22:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
