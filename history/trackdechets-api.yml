@@ -1,7 +1,7 @@
 url: https://api.trackdechets.beta.gouv.fr/.well-known/apollo/server-health
 status: up
 code: 200
-responseTime: 474
-lastUpdated: 2023-01-25T23:20:23.575Z
+responseTime: 797
+lastUpdated: 2023-01-26T23:20:48.874Z
 startTime: Tue Apr 06 2021 15:22:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
