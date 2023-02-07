@@ -13,7 +13,7 @@
     "time": 1295,
     "timeDay": 751,
     "timeWeek": 800,
-    "timeMonth": 819,
+    "timeMonth": 820,
     "timeYear": 1406,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://aides-territoires.beta.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/aides-territoires.beta.gouv.fr",
     "slug": "aides-territoires",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -229,7 +229,7 @@
     "time": 949,
     "timeDay": 492,
     "timeWeek": 485,
-    "timeMonth": 965,
+    "timeMonth": 972,
     "timeYear": 755,
     "dailyMinutesDown": {}
   },
@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 941,
     "timeDay": 840,
-    "timeWeek": 1079,
+    "timeWeek": 1063,
     "timeMonth": 1346,
     "timeYear": 966,
     "dailyMinutesDown": {}
