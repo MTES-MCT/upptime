@@ -274,7 +274,7 @@
     "url": "https://le.taxi",
     "icon": "https://favicons.githubusercontent.com/le.taxi",
     "slug": "le-taxi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 941,
     "timeDay": 1280,
-    "timeWeek": 1019,
+    "timeWeek": 996,
     "timeMonth": 1345,
     "timeYear": 967,
     "dailyMinutesDown": {}
