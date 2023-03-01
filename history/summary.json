@@ -68,7 +68,7 @@
     "timeDay": 1732,
     "timeWeek": 1647,
     "timeMonth": 2187,
-    "timeYear": 1160,
+    "timeYear": 1161,
     "dailyMinutesDown": {}
   },
   {
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
+    "time": 1007,
     "timeDay": 947,
     "timeWeek": 854,
     "timeMonth": 730,
-    "timeYear": 894,
+    "timeYear": 877,
     "dailyMinutesDown": {}
   },
   {
@@ -274,7 +274,7 @@
     "url": "https://le.taxi",
     "icon": "https://favicons.githubusercontent.com/le.taxi",
     "slug": "le-taxi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -283,7 +283,7 @@
     "time": 952,
     "timeDay": 1425,
     "timeWeek": 1063,
-    "timeMonth": 1099,
+    "timeMonth": 1097,
     "timeYear": 986,
     "dailyMinutesDown": {}
   },
